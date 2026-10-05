@@ -1,0 +1,8 @@
+{
+  "name": "EcoScan – E-Waste Lifecycle Tracker",
+  "description": "AI-powered waste management platform to identify items, determine circular actions (Reuse, Donate, Upcycle, Recycle, Safe Disposal), track eco-impact, find drop-off centers, and compete on community leaderboards.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
